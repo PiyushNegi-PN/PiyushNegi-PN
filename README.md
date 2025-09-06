@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyush Negi</h1>
 <h3 align="center">BCA Student|Learning Data Science, Web Development, and AI</h3>
 
-<img align="right" alt="coding" width="400", src="https://www.bing.com/ck/a?!&&p=2b4666b3c36ad5871f83b4cbcbdb0f669c11dab560544e442da1883a3c60d976JmltdHM9MTc1NzExNjgwMA&ptn=3&ver=2&hsh=4&fclid=2c486b33-c67d-6cfa-0108-7e58c78f6d66&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCtjb2RpbmcrZ2lmJmlkPURGMTBGQjBDQjk0MDRBOUQyQUFFM0YzRkEwNzhDRDRBMjE1QTVGRjYmRk9STT1JQUNGSVI&ntb=1">
+<img align="right" alt="coding" width="400", src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/04c238ca-88c1-4a04-a893-bad1ea55495a" />
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushnegi-pn&label=Profile%20views&color=0e75b6&style=flat" alt="piyushnegi-pn" /> </p>
 
