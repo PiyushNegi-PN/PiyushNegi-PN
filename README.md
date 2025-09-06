@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP**
 
 - 📫 How to reach me **pnegi3750@gmail.com**
-</hr>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-negi-78903a379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush negi" height="30" width="40" /></a>
